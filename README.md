@@ -70,6 +70,7 @@ Verify:
 
 kubectl version --client
 
+<img width="984" height="443" alt="Image" src="https://github.com/user-attachments/assets/90761c85-4fcf-4ab2-b7e1-16ca370aef11" />
 
 
 
