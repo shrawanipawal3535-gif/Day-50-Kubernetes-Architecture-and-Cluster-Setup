@@ -14,3 +14,5 @@ Before touching a terminal, write down from memory:
      - Kubernetes comes from a Greek word meaning “helmsman” or “ship pilot”, which reflects its role in steering and managing containerized applications.
 
 ## Task 2: Draw the Kubernetes Architecture
+
+
