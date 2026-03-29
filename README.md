@@ -72,6 +72,15 @@ kubectl version --client
 
 <img width="984" height="443" alt="Image" src="https://github.com/user-attachments/assets/90761c85-4fcf-4ab2-b7e1-16ca370aef11" />
 
+## Task 4: Set Up Your Local Cluster
+
+kind (Kubernetes in Docker)
+
+# Linux
+curl -Lo ./kind https://kind.sigs.k8s.io/dl/latest/kind-linux-amd64
+chmod +x ./kind
+sudo mv ./kind /usr/local/bin/kind
+
 
 
 
