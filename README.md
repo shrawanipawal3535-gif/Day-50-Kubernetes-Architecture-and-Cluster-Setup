@@ -97,10 +97,13 @@ kubectl get nodes
 
 Now that your cluster is running, explore it
 
-kubectl cluster-info
+kubectl cluster-info:
+
+<img width="1243" height="113" alt="Image" src="https://github.com/user-attachments/assets/c1e3138d-de44-4a46-a6dc-0fc1f4d732f9" />
+
+kubectl get nodes:
 
 
-kubectl get nodes
  
 
 
