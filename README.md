@@ -84,6 +84,12 @@ sudo mv ./kind /usr/local/bin/kind
 # Create a cluster
 kind create cluster --name devops-cluster
 
+<img width="1467" height="411" alt="Image" src="https://github.com/user-attachments/assets/f61ce215-4ee8-4bea-b5dd-67b5f8785e8e" />
+
+# Verify
+kubectl cluster-info
+kubectl get nodes
+
 
 
 
