@@ -103,6 +103,15 @@ kubectl cluster-info:
 
 kubectl get nodes:
 
+<img width="955" height="66" alt="Image" src="https://github.com/user-attachments/assets/b3486e09-f53c-4df6-8880-93741d5690ce" />
+
+## Task 6: Practice Cluster Lifecycle
+
+Build muscle memory with cluster operations:
+
+kind delete cluster --name devops-cluster:
+
+kind create cluster --name devops-cluster:
 
  
 
