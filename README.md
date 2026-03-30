@@ -120,6 +120,21 @@ kind create cluster --name devops-cluster:
 
 kubectl get nodes:
 
+<img width="955" height="66" alt="Image" src="https://github.com/user-attachments/assets/b645bbe7-8d54-4037-842f-ab282cdf6fe3" />
+
+kubectl config current-context:
+
+
+kubectl config get-contexts:
+
+
+kubectl config view
+
+
+
+
+
+
 
  
 
