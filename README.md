@@ -111,7 +111,15 @@ Build muscle memory with cluster operations:
 
 kind delete cluster --name devops-cluster:
 
+<img width="802" height="65" alt="Image" src="https://github.com/user-attachments/assets/52687166-1308-4882-be5c-8ce8e47894b8" />
+
+
 kind create cluster --name devops-cluster:
+
+<img width="1348" height="311" alt="Image" src="https://github.com/user-attachments/assets/b3f30a86-9244-485f-b2ec-0ab9b10294fe" />
+
+kubectl get nodes:
+
 
  
 
