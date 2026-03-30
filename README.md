@@ -124,11 +124,16 @@ kubectl get nodes:
 
 kubectl config current-context:
 
+<img width="669" height="45" alt="Image" src="https://github.com/user-attachments/assets/3e65423c-ef99-4672-acb5-89e2f9dbbcf3" />
+
 
 kubectl config get-contexts:
 
+<img width="1346" height="91" alt="Image" src="https://github.com/user-attachments/assets/c74cf308-7d15-4d39-b9df-930b05dc9de4" />
 
-kubectl config view
+kubectl config view:
+
+<img width="656" height="699" alt="Image" src="https://github.com/user-attachments/assets/ab6a4b52-bd09-4dc7-b3b9-007939914156" />
 
 
 
