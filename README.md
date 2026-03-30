@@ -88,7 +88,10 @@ kind create cluster --name devops-cluster
 
 # Verify
 kubectl cluster-info
+
 kubectl get nodes
+
+<img width="1609" height="247" alt="Image" src="https://github.com/user-attachments/assets/0034a012-e01d-4a5a-8b7d-8a16fced7dab" />
 
 
 
