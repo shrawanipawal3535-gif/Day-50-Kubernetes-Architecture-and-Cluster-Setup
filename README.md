@@ -91,6 +91,7 @@ kubectl cluster-info
 
 kubectl get nodes
 
+<img width="1176" height="203" alt="Image" src="https://github.com/user-attachments/assets/e127e59b-50e3-4294-8c1a-a78453b03cfa" />
  
 
 
